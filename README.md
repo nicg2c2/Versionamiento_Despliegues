@@ -1,8 +1,10 @@
 # Versionamiento_Despliegues  
-Se crea este archivo para las pruebas que se realizaran en el Chapter de versionamiento y despliegues el dia 01/12/2023 
+Se crea este repositorio para las pruebas que se realizaran en el Chapter de versionamiento y despliegues el dia 23/02/2024 
 
 ### Actividad
-1. Se van a crear equipos de a 4 personas
-2. Cada equipo clonara el repositorio en su PC local/Porvenir
-3. El grupo creara una Feature(rama) segun el nombre que se asignen como equipo
-4. Modificar el documento .txt y enviar al repositorio de Github
+1. Se va enseñar a clonar el repositorio utilizando Token.
+2. Se enseñara a crear Feature (ramas) segun como se manejan en Porvenir.
+3. Se enviaran cambios a las diferentes ramas y combinaran entre ellas.
+4. Realizar conflictos y solucion de los mismos.
+5. realizar un reset de cambios ya implementados.
+   
